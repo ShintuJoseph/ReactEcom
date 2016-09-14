@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SJBlog.Web")]
+[assembly: AssemblyTitle("ReactEcom.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SJBlog.Web")]
+[assembly: AssemblyProduct("ReactEcom.Web")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5ce8879b-159a-489c-a820-d843a83f3af6")]
+[assembly: Guid("22ba0e5f-c8d0-45fe-9a9e-8f92b2f873c7")]
 
 // Version information for an assembly consists of the following four values:
 //
