@@ -1,6 +1,10 @@
-﻿@font-face {
+﻿body{
+    font-family: 'roboto-condensed', sans-serif,Arial;
+    font-size: 14px;
+}
+@font-face {
 	font-family: BlessedDay;
-	src: url('/fonts/BLESD___.otf') format('opentype');
+	src: url('/fonts/blessed.otf') format('opentype'), url('/fonts/blessed.woff') format('woff');
 }
 
 .logo-lg{
